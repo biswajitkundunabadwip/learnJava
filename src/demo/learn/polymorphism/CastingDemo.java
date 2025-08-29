@@ -1,4 +1,4 @@
-package demo.learn.string;
+package demo.learn.polymorphism;
 
 class A {
 	public void show1() {
