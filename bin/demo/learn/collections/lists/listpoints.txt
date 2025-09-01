@@ -1,0 +1,30 @@
+- List is interface
+- Is not synchronized 
+- It will allow duplicate element
+- It will maintain the order
+
+ArraList
+----------------
+ - Its not thread safe
+ - its good for to read the value of element from array
+ - It will maintain the insertion order of element
+ - It will aloow duplicate element in the array
+ - It is slow compaed to linked list
+ - Its underlying data structes is array
+
+ LinkedList
+----------------
+ - Its not thread safe
+ - its good for to read the value of element from array
+ - It will maintain the insertion order of element
+ - It will aloow duplicate element in the array
+ - It is slow compaed to linked list
+ - Its underlying data structes is Doubly Linked List.
+ 
+  LinkedList
+----------------
+ - Its  thread safe
+ - its good for to read the value of element from array
+ - It will maintain the insertion order of element
+ - It will aloow duplicate element in the array
+ - It is slow compaed to linkedList,arrayList
