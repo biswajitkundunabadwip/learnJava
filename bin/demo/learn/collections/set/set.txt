@@ -1,0 +1,25 @@
+HashSet
+-----------------
+1. HashSet does not allow duplicate values.
+2. Adding a duplicate will return false.
+3. It does not maintain insertion order
+4. HashSet allows only one null element.
+5. Not Thread-Safe
+6. Iteration order is not guaranteed.
+
+LinkedHashSet
+-----------------
+1. HashSet does not allow duplicate values.
+2. Adding a duplicate will return false.
+3. It does maintain insertion order
+4. HashSet allows only one null element.
+5. Not Thread-Safe
+
+Treeset
+-----------------
+1. HashSet does not allow duplicate values.
+2. Adding a duplicate will return false.
+3. It does maintain insertion order in sorted way
+4. HashSet allows only one null element.
+5. Not Thread-Safe
+6. Iteration order is not guaranteed.
